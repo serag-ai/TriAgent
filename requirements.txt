@@ -1,0 +1,33 @@
+# LangChain core and integrations
+langchain
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+langchain-community
+langgraph
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers
+
+# Environment and utilities
+python-dotenv
+openai
+anthropic
+
+# Data handling
+numpy
+pandas
+pyarrow          # parquet support for MIMIC-IV data
+scikit-learn     # classification metrics (baselines_comparison, urgency_eval)
+
+# HTTP (RxNav DDI / OpenFDA FAERS in drug-safety screening)
+requests
+
+# Notebook
+ipykernel
+ipywidgets
+
+# Additional dependencies
+rapidfuzz        # fuzzy string matching
+python-docx      # .docx export for human-evaluation tables (human_eval_run.ipynb)
