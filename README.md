@@ -85,13 +85,16 @@ All evaluation and retrieval data derive from **MIMIC-IV-Note** and **MIMIC-IV-E
 If you use TriAgent or this code in your research, please cite:
 
 ```bibtex
-@article{ibrahim2026triagent,
-  title   = {TriAgent: An Adaptive Multi-Agent Architecture for Crisis Clinical Decision Support Under Incomplete Information},
-  author  = {Ibrahim, Ahmed, AlSanousi, Ali, and Serag, Ahmed},
-  year    = {2026},
-  journal = {AI},
-  publisher = {MDPI}
-}
+@Article{ai7060230,
+AUTHOR = {Ibrahim, Ahmed and AlSanousi, Ali and Serag, Ahmed},
+TITLE = {TriAgent: An Adaptive Multi-Agent Architecture for Crisis Clinical Decision Support Under Incomplete Information},
+JOURNAL = {AI},
+VOLUME = {7},
+YEAR = {2026},
+NUMBER = {6},
+ARTICLE-NUMBER = {230},
+URL = {https://www.mdpi.com/2673-2688/7/6/230},
+ISSN = {2673-2688}
 ```
 
 ## Acknowledgements
