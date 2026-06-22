@@ -3,6 +3,7 @@
 <p align="center"><b>An Adaptive Multi-Agent Architecture for Crisis Clinical Decision Support Under Incomplete Information</b></p>
 
 <p align="center">
+  <a href="https://www.mdpi.com/2673-2688/7/6/230"><img src="https://img.shields.io/badge/MDPI%20AI-View%20Paper-orange" alt="Paper"></a>
   <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--4.0-brightgreen" alt="License: CC BY 4.0"></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/built%20with-LangGraph-orange" alt="Built with LangGraph">
@@ -17,8 +18,7 @@ The system is built on **LangGraph** and evaluated on **real emergency-departmen
 This repository contains the reference pipeline notebook introduced in our paper:
 
 > **TriAgent: An Adaptive Multi-Agent Architecture for Crisis Clinical Decision Support Under Incomplete Information**
-> Ahmed Ibrahim and Ahmed Serag.
-> Manuscript under review (2026).
+> Ahmed Ibrahim, Ali AlSanousi, and Ahmed Serag.
 
 ## Key Features
 
