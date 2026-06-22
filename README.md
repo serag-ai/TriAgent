@@ -87,9 +87,10 @@ If you use TriAgent or this code in your research, please cite:
 ```bibtex
 @article{ibrahim2026triagent,
   title   = {TriAgent: An Adaptive Multi-Agent Architecture for Crisis Clinical Decision Support Under Incomplete Information},
-  author  = {Ibrahim, Ahmed and Serag, Ahmed},
+  author  = {Ibrahim, Ahmed, AlSanousi, Ali, and Serag, Ahmed},
   year    = {2026},
-  note    = {Manuscript under review}
+  journal = {AI},
+  publisher = {MDPI}
 }
 ```
 
